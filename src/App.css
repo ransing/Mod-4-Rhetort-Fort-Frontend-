@@ -1,0 +1,59 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #09d3ac;
+}
+
+body {
+  background-color: #D3D3D3 !important;
+}
+
+.the-fucking-button:hover
+{
+  background-color: #0bc2fa;
+  color: white;
+  font-weight: bold;
+}
+
+.nick-card
+{
+  transition: 0.17s;
+}
+
+.nick-card:hover
+{
+  box-shadow: 2px 2px 2px black;
+  transform: scale(1.1);
+  transition: 0.17s;
+}
+
+#submit-button:hover
+{
+  background-color: #64e759 !important;
+  font-weight: bold !important;
+}
+
+#submit-button:hover
+{
+  background-color: #64e759 !important;
+  font-weight: bold !important;
+}
+
+
